@@ -1,0 +1,9 @@
+component,version,main_use
+
+Python,3.12.13,Experiment implementation
+NumPy,2.0.2,Numerical operations and seeded random generation
+pandas,2.2.2,Data preparation and result aggregation
+scikit-learn,1.6.1,Random Forest and Gaussian Naive Bayes
+XGBoost,3.3.0,XGBoost model
+LightGBM,4.6.0,LightGBM model
+PyArrow,18.1.0,Parquet data processing
