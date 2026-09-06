@@ -1,0 +1,26 @@
+{
+  "train_fraction": 0.75,
+  "evaluation_fraction": 0.25,
+  "noise_levels_percent": [0, 5, 10, 15, 20, 25, 30, 40, 50],
+  "repetition_seeds": 30,
+  "independent_unit": "project",
+  "included_projects": 24,
+  "supervised_techniques": [
+    "Random Forest",
+    "XGBoost",
+    "LightGBM",
+    "Gaussian Naive Bayes"
+  ],
+  "baselines": [
+    "Random",
+    "LatestFail",
+    "QTF-Avg"
+  ],
+  "primary_metric": "APFDc",
+  "secondary_metric": "APFD",
+  "noise_scope": "historical training verdicts only",
+  "evaluation_verdicts_modified": false,
+  "verdict_dependent_rec_features_recomputed": 13,
+  "verdict_independent_rec_features_preserved": 6,
+  "latestfail_no_previous_failure_priority": "lowest"
+}
