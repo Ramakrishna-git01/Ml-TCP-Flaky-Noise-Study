@@ -37,6 +37,16 @@ The experiment uses the TCP-CI benchmark introduced by Yaraghi et al.
 - [TCP-CI GitHub repository](https://github.com/Ahmadreza-SY/TCP-CI)
 - [TCP-CI dataset on Zenodo](https://zenodo.org/records/6415365)
 
+# Running the Notebooks
+
+The experiments were originally executed in Google Colab with Google Drive mounted.
+
+Some notebooks therefore contain paths beginning with:
+
+`/content/drive/MyDrive/Thesis_Experiment/`
+
+These paths refer to our original experiment directory in Google Drive and need to be changed if the notebooks are run in a different environment.
+
 
 ## Repository Structure
 
