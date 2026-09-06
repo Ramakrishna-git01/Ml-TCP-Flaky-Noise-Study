@@ -1,0 +1,24 @@
+Check,Expected,Actual,Pass
+RQ1 Step-3A checkpoint SHA-256,5f5403a21337144590848659395002fbeb31819427e0def1dfa30d56e65fe074,5f5403a21337144590848659395002fbeb31819427e0def1dfa30d56e65fe074,True
+RQ1 Step-3B checkpoint SHA-256,27e0b52469023791a37ebf1099b6a63e7509ae2513981694ba7e7541277c47c3,27e0b52469023791a37ebf1099b6a63e7509ae2513981694ba7e7541277c47c3,True
+Completion registry SHA-256,dc5cdc752d89661c0b41adc5680509034ded1c64f2f41934de774f1621ab2596,dc5cdc752d89661c0b41adc5680509034ded1c64f2f41934de774f1621ab2596,True
+Figure-data rows,36,36,True
+Primary APFDc inferential rows,32,32,True
+Secondary APFD inferential rows,32,32,True
+Primary synthesis rows,4,4,True
+Selected-noise rows,20,20,True
+Primary APFDc Bonferroni-significant tests,25,25,True
+Secondary APFD Bonferroni-significant tests,28,28,True
+RandomForest first APFDc significant noise,5,5,True
+XGBoost first APFDc significant noise,5,5,True
+LightGBM first APFDc significant noise,5,5,True
+NaiveBayes first APFDc significant noise,50,50,True
+Figure exists: rq1_apfdc_absolute_performance.png,True,True,True
+Figure exists: rq1_apfdc_clean_relative_degradation.png,True,True,True
+Figure exists: rq1_apfdc_retention.png,True,True,True
+Figure exists: rq1_apfdc_rank_biserial_effect_size.png,True,True,True
+Figure exists: rq1_apfd_secondary_performance.png,True,True,True
+New inferential tests executed,False,False,True
+RQ2 executed,False,False,True
+RQ3 executed,False,False,True
+Completion registry modified,False,False,True
