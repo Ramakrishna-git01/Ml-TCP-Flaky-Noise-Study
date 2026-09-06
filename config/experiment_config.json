@@ -2,7 +2,7 @@
   "train_fraction": 0.75,
   "evaluation_fraction": 0.25,
   "noise_levels_percent": [0, 5, 10, 15, 20, 25, 30, 40, 50],
-  "repetition_seeds": 30,
+  "repetition_seeds_count": 30,
   "independent_unit": "project",
   "included_projects": 24,
   "supervised_techniques": [
