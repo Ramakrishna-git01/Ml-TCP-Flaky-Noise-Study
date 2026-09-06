@@ -1,0 +1,17 @@
+{
+  "AffectedProjectsCorrected": 14,
+  "Aggregation": "Thirty repetition seeds are first averaged within each project and noise level; the resulting 24 project means are then averaged with equal project weighting.",
+  "ConditionsPerProject": 270,
+  "CorrectionID": "LatestFail_Sentinel_Fix_v2",
+  "CorrectionScopeSHA256": "c47f8c4d4ce5e5c7de585da1ac1c68a03f1f887b6f150bc6ed98636867388b9f",
+  "CreatedAtUTC": "2026-09-05T22:06:45.186142+00:00",
+  "FinalProjectNoiseRows": 216,
+  "FinalProjectNoiseSHA256": "cbbd78ce79d32a71be335d72e21b0b0b3995a6ed1ea8e049147095b9a8f466d9",
+  "FinalProjectRunRows": 6480,
+  "FinalRunsSHA256": "2da37d5a6ec72d7b28176f0af3b8cef218b4496d26e33398e2f0cdcaffd57588",
+  "FrozenSourceModification": false,
+  "GlobalComparisonSHA256": "380eda288383022176240106a3fb28c0bb3643bd9a806b01d6a1a0119f2d9362",
+  "LegacyProjectsPreserved": 10,
+  "OriginalRunsSHA256": "5d1d0a0f1bad43c9bf71e62221c4213f3ebc49945f4883f8357561180ce3c1e0",
+  "Projects": 24
+}
